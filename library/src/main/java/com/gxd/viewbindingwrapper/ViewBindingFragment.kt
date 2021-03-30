@@ -1,4 +1,4 @@
-package com.demo.viewbinding.lib
+package com.gxd.viewbindingwrapper
 
 import android.os.Bundle
 import android.view.LayoutInflater

@@ -4,7 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import com.demo.viewbinding.databinding.ActivityMainBinding
 import com.demo.viewbinding.databinding.LayoutMergeBinding
-import com.demo.viewbinding.lib.ViewBindingActivity
+import com.gxd.viewbindingwrapper.ViewBindingActivity
 
 class MainActivity : ViewBindingActivity<ActivityMainBinding>() {
     override fun onCreate(savedInstanceState: Bundle?) {

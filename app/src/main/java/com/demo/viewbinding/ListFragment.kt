@@ -4,7 +4,7 @@ import android.os.Bundle
 import android.view.View
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.demo.viewbinding.databinding.FragmentListBinding
-import com.demo.viewbinding.lib.ViewBindingFragment
+import com.gxd.viewbindingwrapper.ViewBindingFragment
 
 class ListFragment : ViewBindingFragment<FragmentListBinding>() {
     override fun FragmentListBinding.onViewCreated(view: View, savedInstanceState: Bundle?) {

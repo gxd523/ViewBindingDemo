@@ -4,7 +4,7 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.demo.viewbinding.databinding.ItemListBinding
-import com.demo.viewbinding.lib.ViewBindingHolder
+import com.gxd.viewbindingwrapper.ViewBindingHolder
 
 class MyAdapter : RecyclerView.Adapter<MyAdapter.MyViewHolder>() {
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MyViewHolder = MyViewHolder(parent)

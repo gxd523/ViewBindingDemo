@@ -1,4 +1,4 @@
-package com.demo.viewbinding.lib
+package com.gxd.viewbindingwrapper
 
 import androidx.recyclerview.widget.RecyclerView
 import androidx.viewbinding.ViewBinding
